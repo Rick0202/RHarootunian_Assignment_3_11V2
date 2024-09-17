@@ -85,7 +85,7 @@ public class Main {
     // Output, the number of days in the month and year user selected.
 
   if (daysInMonth > 0) {
-    System.out.println("For the month of :" + monthName + " in the year " + year + ", there are " + daysInMonth + " days.");
+    System.out.println("For the month of :" + monthName + " in the year " + year + ", there are " + daysInMonth + " days. ");
 
   } else {
     System.out.println("Invalid month or year entered.");System.out.println("Invalid month entered.");
@@ -96,6 +96,7 @@ public class Main {
     
   }
         
-   
+   //End of program.
+
     
   }
